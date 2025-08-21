@@ -4,7 +4,7 @@ Bonkfun Bundler is a battle-tested CLI tool designed for Solana-based token laun
 
 [![🐦 Twitter](https://img.shields.io/badge/Twitter-@toptrendev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/toptrendev)
 [![💬 Discord](https://img.shields.io/badge/Discord-toptrendev-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/648385188774019072)
-[![✈️ Telegram](https://img.shields.io/badge/Telegram-@toptrendev_641-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/toptrendev_641)
+[![✈️ Telegram](https://img.shields.io/badge/Telegram-@TopTrenDev_66-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TopTrenDev_66)
 
 ## 🧰 What It Does
 
